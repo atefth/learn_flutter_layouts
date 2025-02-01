@@ -1,3 +1,3 @@
-# learn_layout
+# Learn how to layout Flutter apps
 
 A new Flutter project.
